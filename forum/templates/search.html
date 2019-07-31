@@ -10,11 +10,9 @@
 <ul>
     {% for result in search_result %}
     <li>
-        <b>Title:</b> {{result.title}}<br/>
-        <b>Content:</b> {{result.content}}<br/>
-        <b>Pub date:</b> {{result.timestamp}}<br/>
+        <b>Title:</b> {{result.name}}<br/>
+        <b>Content:</b> {{result.slug}}<br/>
     </li>
-    <br/>
     <br/>
     {% endfor %}
 </ul>

@@ -1,21 +1,20 @@
 from django_elasticsearch_dsl import Document
 from django_elasticsearch_dsl.registries import registry
 
-from forum.models import Post
+from forum.models import Category
 
 
 @registry.register_document
-class PostDocument(Document):
+class CategoryDocument(Document):
     class Index:
-        name = 'posts'
+        name = 'categories'
         settings = {'number_of_shards': 1,
                     'number_of_replicas': 0}
 
     class Django:
-        model = Post
+        model = Category
 
         fields = [
-            'title',
-            'content',
-            'timestamp',
+            'name',
+            'slug'
         ]
