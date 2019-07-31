@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Base</title>
+</head>
+<body>
+<h1>Elastic search:</h1>
+<form action="{% url 'elastic_search' %}" method="get">
+    <label>
+        <input type="text" name="q" placeholder="I am looking for...">
+    </label>
+    <label>
+        <input type="submit" value="Search">
+    </label>
+</form>
+<hr/>
+<h1>Simple search:</h1>
+<form action="{% url 'simple_search' %}" method="get">
+    <label>
+        <input type="text" name="q" placeholder="I am looking for...">
+    </label>
+    <label>
+        <input type="submit" value="Search">
+    </label>
+</form>
+</body>
+</html>

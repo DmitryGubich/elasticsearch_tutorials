@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+</head>
+<body>
+{% if search_result %}
+<h1>Search results:</h1>
+<ul>
+    {% for result in search_result %}
+    <li>
+        <b>Title:</b> {{result.title}}<br/>
+        <b>Content:</b> {{result.content}}<br/>
+        <b>Pub date:</b> {{result.timestamp}}<br/>
+    </li>
+    <br/>
+    <br/>
+    {% endfor %}
+</ul>
+{% else %}
+<h1>There are not such posts</h1>
+{% endif %}
+</body>
+</html>
