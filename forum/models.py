@@ -1,4 +1,5 @@
 from django.db import models
+from django.utils import timezone
 
 
 class Category(models.Model):
@@ -16,7 +17,7 @@ class Post(models.Model):
     category = models.ForeignKey(Category, related_name='category', on_delete=models.CASCADE)
     title = models.CharField(max_length=120)
     content = models.TextField()
-    timestamp = models.DateTimeField(auto_now_add=True)
+    timestamp = models.DateTimeField(default=timezone.now)
 
     def __str__(self):
         return self.title
