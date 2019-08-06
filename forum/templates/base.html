@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Base</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+<div class="container">
+    <h1>Elastic search:</h1>
+    <form action="{% url 'elastic_search' %}" method="get">
+        <div class="form-group">
+            <label>
+                <input type="text" name="q" class="form-control" placeholder="I am looking for...">
+            </label>
+            <input type="submit" class="btn btn-primary" value="Search">
+        </div>
+    </form>
+    <hr/>
+    <h1>Simple search:</h1>
+    <form action="{% url 'simple_search' %}" method="get">
+        <div class="form-group">
+            <label>
+                <input type="text" name="q" class="form-control" placeholder="I am looking for...">
+            </label>
+            <input type="submit" class="btn btn-primary" value="Search">
+        </div>
+    </form>
+</div>
+</body>
+</html>

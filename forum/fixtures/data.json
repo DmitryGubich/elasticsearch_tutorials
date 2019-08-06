@@ -1,0 +1,219 @@
+[
+  {
+    "model": "forum.category",
+    "pk": 1,
+    "fields": {
+      "name": "sport",
+      "slug": "sport"
+    }
+  },
+  {
+    "model": "forum.category",
+    "pk": 2,
+    "fields": {
+      "name": "news",
+      "slug": "news"
+    }
+  },
+  {
+    "model": "forum.category",
+    "pk": 3,
+    "fields": {
+      "name": "business",
+      "slug": "business"
+    }
+  },
+  {
+    "model": "forum.car",
+    "pk": 1,
+    "fields": {
+      "brand": "ford",
+      "color": "black"
+    }
+  },
+  {
+    "model": "forum.car",
+    "pk": 2,
+    "fields": {
+      "brand": "bmw",
+      "color": "red"
+    }
+  },
+  {
+    "model": "forum.car",
+    "pk": 3,
+    "fields": {
+      "brand": "fiat",
+      "color": "white"
+    }
+  },
+  {
+    "model": "forum.car",
+    "pk": 4,
+    "fields": {
+      "brand": "audi",
+      "color": "green"
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 1,
+    "fields": {
+      "category": "1",
+      "title": "Princess Haya: Dubai ruler and wife begin London court battle",
+      "content": "The ruler of Dubai, one of the most high-profile leaders in the Middle East, and his estranged wife are beginning a court battle in London over the welfare of their children.\n\nSheikh Mohammed Al Maktoum's wife, Princess Haya Bint al-Hussein, is the third female member of his court to run away from the United Arab Emirates.\n\nThis month she was reported to be in hiding in London in fear for her life.\n\nThe UK court case centres around their children, with whom she fled.\n\nPrincess Haya, who was born in Jordan and educated at private schools in Britain, is an Olympic equestrian and the half-sister of the current Jordanian ruler, King Abdullah II.\n\nShe married Sheikh Mohammed in 2004, becoming his sixth and \"junior\" wife. The 70-year-old sheikh, who is the billionaire owner of Godolphin horse racing stables, reportedly has 23 children by different wives.\n\nWho is Princess Haya?\nDubai ruler's wife 'in fear for her life'\n\nMedia captionDubai: It's flash, it's brash, it's successful – but what's going on beneath the surface?\nPrincess Haya initially fled to Germany to try and seek asylum there, but it emerged this month that she was living in central London - specifically, in an £85m ($107m) town house in Kensington Palace Gardens.\n\nIt's believed that Princess Haya will want to stay in the UK. However, if her husband demands her return to Dubai, this could cause a diplomatic headache for Britain - which has close ties to the United Arab Emirates (UAE).\n\nAfter she fled, Sheikh Mohammed wrote an angry poem accusing an unnamed woman of betrayal and treachery, and posted it on his Instagram page.\n\nWhy is Princess Haya said to have run away?\nSources close to the princess said earlier this month that she had recently discovered disturbing facts about the mysterious return to Dubai last year of Sheikha Latifa, one of Sheikh Mohammed's daughters.\n\nSheikha Latifa had escaped the UAE by sea with the help of a Frenchman, but was intercepted by armed men off the coast of India. She was then returned to Dubai.\n\n\nMedia captionWhat happened to Sheikha Latifa?\nAt the time, Princess Haya defended Dubai's reputation over the incident, claiming that Shiekha Latifa had been \"vulnerable to exploitation\" and was \"now safe in Dubai\". Human rights advocates said she was abducted against her will.\n\nImages of 'missing' Dubai princess released\nHowever later, sources alleged that Princess Haya had become aware of new information related to the case, and as a result came under increasing pressure from her husband's extended family."
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 2,
+    "fields": {
+      "category": "1",
+      "title": "Democratic debates: Five things to look out for",
+      "content": "It's time for Round Two in the Democratic primary debates.\n\nOr, to be more precise, it's round 2a and 2b, since once again the sprawling Democratic field will be divided into two groups of 10, each with two hours on prime-time television to scuffle and struggle and jostle and whatever other verbs it takes to separate themselves from the pack.\n\nAlthough the groupings have been shuffled, Tuesday and Wednesday night in Detroit will feature almost entirely the same cast of characters as in June. The one change is that California Representative Eric Swalwell has passed the torch, so to speak, to Montana Governor Steve Bullock.\n\nSwalwell, in fact, dropped out of the race entirely, instead announcing he would run for re-election to the House of Representatives.\n\nHis presence will be missed. By someone. Probably.\n\nThere are plenty of things to watch for among the candidates who did make the cut, however. Here are a few.\n\nBiden in the crosshairs again?\nThe highlight of the first round of debates was the exchange between former Vice-President Joe Biden and California Senator Kamala Harris over the former's record of opposing school desegregation via mandatory bussing back in the 1970s.\n\n\"Exchange\" may be putting it nicely. It was a one-sided affair, as Biden appeared caught off guard by Harris' criticism, which culminated with her noting that she was a direct beneficiary of the kind of efforts then-Senator Biden opposed.\n\nThe encounter crystallised the consensus that the former vice-president had an uneven debate performance and helped give Harris a noticeable boost in the polls (accompanied by a Biden dip).\n\nBiden has steadied himself since then, but there's blood in the water. He and Harris once again share the stage in the Wednesday night debate, and Biden has said he'll be ready this time.\n\n\nMedia captionHarris and Biden clash over his race record\nHe better be. The shots, however, may not from Harris, who has probably squeezed all the benefit she can from tussles with Biden. Others on the stage - particularly Senators Cory Booker and Kirsten Gillibrand - may have taken note of Harris's success and seek to replicate it.\n\nBooker has already taken aim at Biden's sponsorship of a harsh anti-crime bill in the 1990s, calling him an \"architect of mass incarceration\".\n\nRight now a plurality of Democratic voters appear to think Biden is the candidate best able to go toe-to-toe with Donald Trump in 2020. He'll have to prove he can handle his primary opponents first, however. He didn't do that in the first debate June. He'll have another opportunity on Wednesday.\n\nFalter again, and the whispers that he may not be the man for the job will grow louder\n\nSanders vs. Warren at last\nOne of the big line-up disappointments from the last round of debates was that Elizabeth Warren and Bernie Sanders - the two candidates competing the hardest for the hearts and minds of progressive Democrats - appeared on different nights.\n\nOn Tuesday the anticipated face-off will finally happen.\n\nThe ingredients are there for sparks to fly. After a slow start, Warren has been steadily building support and surpassed Sanders both in second-quarter fund-raising and in some of the early-state polls.\n\n\nMedia captionElizabeth Warren: \"Economy is good for a thin slice of America\"\nWarren represents a serious and growing threat to the Vermont senator's presidential hopes. It's still not clear, however, that he knows how to address it.\n\nIt would benefit the Vermont senator to take his fellow New Englander down a notch, but he has provoked criticism every time he, or a member of his campaign, try to do it.\n\nWho will take on Trump in 2020?\nThe key issues for 2020 Democrats\nBiden fundraising eclipsed by junior 2020 Democrat\nThere are definitely contrasts to be drawn. Sanders, unlike the former Republican Warren, has been a long-time advocate of progressive causes. Warren's \"I have a plan\" campaign strategy tends to advocate changing the system from within, while Sanders speaks of a people-driven political \"revolution\".\n\nThe challenge for Sanders will be trying to find a way to highlight those contrasts without being perceived as attacking another star of the progressive moment.\n\nMeanwhile, Warren won't want to rock a campaign boat that has been picking up steam. If this all ends in hugs and smiles, that's just fine with her.\n\nBeto vs Buttigieg\nLast summer, Beto O'Rourke was a political sensation.\n\nHis campaign to unseat Ted Cruz from his Senate seat in solidly conservative Texas made national headlines. He was drawing huge crowds and fundraising like a top-tier Democratic presidential candidate, not a congressional back-bencher.\n\nThe 46-year-old former punk rocker was seen as the face of a new generation of politicians, with a youthful energy and charisma that stood in stark contrast to the elderly leaders of both political parities.\n\nImage copyrightDREW ANGERER/GETTY IMAGES\nImage caption\nPete Buttigieg, Joe Biden and Bernie Sanders at the first Democratic debate\nFast forward a year, and the bloom is off O'Rourke's rose. He's sagging in the polls, and the money isn't flowing like it used to. Instead, Pete Buttigieg, the 37-year-old mayor of South Bend, Indiana, is now the guy getting the glowing press. He led the Democratic pack in second-quarter fund-raising and is the one talked about as a standard-bearer for a new political generation.\n\nFor the first time on Tuesday night, the two will share a debate stage. In last month's debate, O'Rourke underwhelmed, appearing timid and uncertain while getting pushed around by Julian Castro on what should be one of his strengths, immigration policy.\n\nThis next debate could give the Texan a chance to regain some of his lost lustre - perhaps at Buttigieg's expense.\n\nHe's going to have to do something to shake things up, because the path he's currently on ends next to Eric Swalwell.\n\nSecond night so white\nThe Democrats this campaign have the most diverse major-party presidential primary field in American history. You wouldn't be able to tell by looking at the stage on Tuesday night's debate, however.\n\nCNN responded to criticism about the opaque way NBC announced the field for its two June debates - which included most of the top-tier candidates on one night - by having a televised drawing event akin to a World Cup group-selection show. The end result, however, left much to be desired.\n\n\nMedia captionDemocrats clash over policy, history and food\nThe 10-person field on Tuesday night's debate has none of the five minority candidates. The party's first foot forward this time around will reflect little of the range of ethnicities that make up the heart of the modern Democratic Party. (And Warren's presence prompted more than a few jokes from conservatives about her claimed American Indian heritage.)\n\nDonald Trump's recent criticisms of minority Democrats in Congress, including Ilhan Omar and Baltimore Congressman Elijah Cummings, has rekindled a debate about race - and racism - in American society. The topic will certainly come up in the first debate. Will anyone on the stage be able to convincingly address it?\n\nLast chance saloon\nIt may not be hard to detect a whiff of desperation in the air this week. When the next official primary debate rolls around in mid-September, only 10 candidates will make the cut. In other words, at least half the men and women on the stage in Detroit are going to be left watching from the sidelines - if they're still in the race at all.\n\nThe mark to qualify for the Houston debate doubles - to at least 2% in an average of polls and more than 130,000 unique donors. So far, the only candidates to clear both hurdles are Biden, Buttigieg, Harris, O'Rourke, Sanders and Warren.\n\nFor the rest of the candidates, there's work to be done. This could be the final opportunity to make their case in front of a national audience; their last chance to bottle the fabled political lightning and transform from also-ran to at least a maybe-can-run.\n\nYou know what desperate times call for."
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 3,
+    "fields": {
+      "category": "2",
+      "title": "Premier League 2019‑20 preview No 4: Brighton",
+      "content": "Guardian writers’ predicted position: 19th (NB: this is not necessarily Ben Fisher’s prediction but the average of our writers’ tips)\n\nLast season’s position: 17th\n\nOdds to win the league (via Oddschecker): 1,500-1\n\nWhen the royal blue “El Capitan” mural on the side of Church Street, in the heart of Brighton’s North Laine, was painted over before the final game of last season it signalled the beginning of the end of an era. In the weeks after the graffiti, which depicted Bruno as a king, the Spaniard retired with his status as a cult hero intact and the manager Chris Hughton was sacked and replaced by Graham Potter. Since then Anthony Knockaert, a catalyst in the team’s promotion two years ago, has departed on loan. But there is calm at Brighton, a feeling that such change represents evolution rather than revolution.\n\nWhether it was second-season syndrome, the way things had gone stale, the sense of predictability that seeped through a once-exciting team – or a bit of everything – Brighton felt they needed to freshen things up after nose-diving towards a Championship return after three wins from Hughton’s final 23 league matches. In Potter, who worked miracles at the Swedish club Östersund and, in many ways, at a financially hamstrung Swansea too, they have appointed one of the most exciting English coaches. “The job that was done here was a really good job,” Potter said. “We are now in a different phase, a different stage and everyone has been really supportive to that. But every coach, no matter who they are and what their beliefs are, would want to improve on the previous year. Now the task is to see if we can.”\n\nAs for Bruno, who turns 39 in October, the former Valencia defender made 14 starts in his seventh and final campaign in Sussex and has assumed the role of senior development coach, which will see him act as a kind of middleman between the first team and staff, and as a mentor to the under-23s and loan players. Lewis Dunk, who is set to take the captaincy full time, has been persistently linked with a move from his hometown club this summer but Potter insists Dunk has been the consummate professional. “He has been top – he has been brilliant,” Potter said. “His attitude has been fantastic, he was the captain last year, he has taken that responsibility on and has grown as a person as a result of that and he has been nothing but exemplary in his work.”"
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 4,
+    "fields": {
+      "category": "2",
+      "title": "Andy Murray says he is closer than he thought to making singles return",
+      "content": "The former world No 1, Andy Murray, is considering returning to singles action at Cincinnati next month, saying he is “closer than he thought” to being ready.\n\nThe 32-year-old has not played singles since losing in the first round of the Australian Open in January to Spain’s Roberto Bautista Agut, after which he underwent hip resurfacing surgery in a bid to salvage his career.\n\nHe returned to doubles action at Queen’s Club this year, winning the title with Spain’s Feliciano López, and also played men’s doubles with Frenchman Pierre-Hugues Herbert and mixed with Serena Williams at Wimbledon.\n\nThe three-time grand slam champion had previously said it was extremely unlikely he would be ready to play singles at the US Open but now believes a return on the Cincinnati hardcourts in two weeks’ time is possible.\n\n“I’m closer than I thought,” Murray said at the Citi Open in Washington where he is playing doubles with his brother Jamie. “Best case scenario probably would be Cincinnati. And then if I wasn’t able to play in Cincinnati, there’s a good chance I would probably wait until after New York, because I wouldn’t want my first tournament, either, to be playing best-of-five sets.“\n\nMurray said he is practising singles in Washington and is also lined up to play doubles at the Rogers Cup next week in Toronto with López. “In terms of moving and feeling and waking up the next day, I’m feeling good,” Murray said. “I’m quite close but there’s stuff that would need to get better.\n\n“I could [play singles] but to get where I would want to be I’d have to get back in the gym and get my cardio better.”"
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 5,
+    "fields": {
+      "category": "3",
+      "title": "Iron Age Celtic Woman Wearing Fancy Clothes Buried in This 'Tree Coffin' in Switzerland",
+      "content": "During the late Iron Age, Celts laid one of their own to rest in a tree coffin, but not before they dressed her to the nines; she wore a fine woolen dress and shawl, a sheepskin coat and a beautiful necklace strung with glass and amber beads, according to the Office for Urban Development in Zurich.\n\nAfter studying the 2,200-year-old burial, archaeologists learned that the woman was about 40 years old when she died and had probably performed little physical labor during her lifetime. Moreover, an analysis of her teeth suggested this woman liked to eat starchy or sweetened foods.\n\nEven her coffin was remarkable; the woman was buried in a hollowed-out tree trunk, which still had bark on its exterior. [In Photos: Ancient Tomb of a Celtic Prince Uncovered]\n\nThe woman's remains were originally found in March 2017, during a construction project at the Kern school complex in Aussersihl, a district in Zurich. Since then, an interdisciplinary examination by the Zurich archaeology department has illustrated much about this woman's life in 200 B.C. For instance, an isotope analysis of the woman's bones showed that she was a local who grew up in Zurich, likely in Limmat Valley. (An isotope is an element with a different number of neutrons than usual.)\n\nThe archaeologists were especially intrigued by the clasp on the woman's necklace. Both ends of the necklace had a garment clip known as a brooch that allowed her to wear the string of blue and yellow glass and amber beads, they said in a statement (translated from German with Google Translate.)\n\nThe woman also wore bronze bracelets and a delicate bronze belt chain with pendants hanging from it. Several iron clasps held her clothes together.\n\nThe woman's remains were found buried about 260 feet (80 meters) from the grave of a Celtic man found in 1903 when the school's gym was being built, the Office for Urban Development reported. That man had been buried with a sword, shield and lance.\n\nBecause these two individuals were buried in the same decade, it's possible they knew each other, the archaeologists said.\n\nThough people often think of the Celts as hailing from the United Kingdom, they actually lived in continental Europe, as far east as modern-day Turkey, Live Science previously reported.\n\n25 Cultures That Practiced Human Sacrifice\nIn Photos: Boneyard of Iron Age Warriors\nPhotos: Gold, Amber and Bronze Treasures Found in Iron Age Grave"
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 6,
+    "fields": {
+      "category": "3",
+      "title": "Divers Find Temples and Treasures in Sunken Ancient Egyptian City",
+      "content": "Divers Find Temples and Treasures in Sunken Ancient Egyptian City\nDivers discovered the remains of a temple in the now-underwater ancient Egyptian city of Heracleion.\nCredit: Christoph Gerigk/Hilti Foundation/Egypt Ministry of Antiquities\nDivers swimming through Heracleion, an ancient Egyptian city that's now under water, have discovered a trove of artifacts, including the remains of a temple, gold jewelry, coins and the missing piece of a ceremonial boat, according to Egypt's Ministry of Antiquities.\n\nHeracleion — named after the legendary Hercules, who ancient people believed actually visited the city — was a bustling metropolis in its day. When it was built in about the eighth century B.C., it sat on the edge of the Nile River, next to the Mediterranean Sea. Cleopatra was even crowned in one of its temples. Then, about 1,500 years ago, it flooded, and now sits under about 150 feet (45 meters) of water.\n\nEver since archaeologists discovered it in 2000, Heracleion (also known as Thonis) has slowly revealed its ancient secrets. During the latest two-month excavation, archaeologists were delighted to find the remains of a large temple, including its stone columns, and the crumbling remnants of a small Greek temple, which was buried under 3 feet (1 m) of sediment on the seafloor, the ministry reported. [Photos: Teen's Skeleton Buried Next to Pyramid in Egypt]\n\nThe excavation team of Egyptian and European archaeologists was led by Franck Goddio, the underwater archaeologist who discovered Heracleion 19 years ago. Together, the team used a scanning tool that transmits images of artifacts resting on the seafloor and those buried beneath it.\n\nA gold earring found at the underwater site.\nA gold earring found at the underwater site.\nCredit: Christoph Gerigk/Hilti Foundation/Egypt Ministry of Antiquities\nThe scanning tool revealed part of a boat. During past excavations, archaeologists had found 75 boats, although not all of them were complete. This new finding was the missing part of boat 61, which was likely used for ceremonial purposes, the Ministry of Antiquities said in a statement.\n\nIt wasn't a small boat, either. When the archaeologists pieced boat 61 together, it measured 43 feet long and 16 feet across (13 m by 5 m). \n\nThe ship held tiny treasures — coins of bronze and gold, as well as jewelry. The bronze coins uncovered at Heracleion date to the time of King Ptolemy II, who ruled from 283 to 246 B.C. The team also discovered pottery dating to the third and fourth centuries B.C., the ministry noted.\n\nOne of the coins found during the underwater excavation.\nOne of the coins found during the underwater excavation.\nCredit: Christoph Gerigk/Hilti Foundation/Egypt Ministry of Antiquities\nThe team also looked at the underwater site of Canopus, which, like Heracleion, is located in the Gulf of Abu Qir, Alexandria. At Canopus, the archaeologists found an ancient building complex that extended the city's footprint southward about 0.6 miles (1 kilometer), the ministry said.\n\nCanopus also held other treasures; the archaeologists found an ancient port, coins from the Ptolemaic and Byzantine periods, and rings and earrings from Ptolemaic times. All of these artifacts indicate that Canopus was a busy city from the fourth century B.C. to the Islamic era."
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 7,
+    "fields": {
+      "category": "1",
+      "title": "Democratic debates: Who won and lost in round one?",
+      "content": "The Democrats competing for the right to take on Donald Trump in 2020 are squaring off at two debates in Detroit. Who were the winners and losers from round one?\n\nDuring a two-hour event dominated by detailed policy discussions, there were sharp exchanges over immigration, healthcare and what makes a candidate electable.\n\nWho stood out?\nIt felt a little bit like a gang fight, with the candidates breaking into two distinct groups - the moderates and the progressives.\n\nGiven that the two that are farthest to the left, Elizabeth Warren and Bernie Sanders, also happen to be two of the candidates near the top of the polls, this dynamic ended up helping elevate some of the moderate candidates.\n\nUp until now, they've effectively been crowded out by Joe Biden, the king of the moderates.\n\nHe won't take the stage until Wednesday night, so it was up to candidates like Ohio Congressman Tim Ryan, Montana Governor Steve Bullock and former Maryland Congressman John Delaney to hold up their end of the fight.\n\nCandidates clash over immigration and healthcare\nThe presidential hopeful winning Reddit's vote\nThe key issues for 2020 Democrats\nThat can only be good news for those candidates, who got plenty of airtime to defend and expound upon their views. Will it help any of them rise in the polls? Perhaps if Biden falters again on Wednesday. If not, then the former vice-president may be the ultimate beneficiary of Tuesday evening's proceedings.\n\nSanders and Warren will also be pleased with their performance. Both held up under fire - and had a chance to demonstrate they could give as well as they get. Of the two, Warren probably will be happiest, because she's pulling ahead of Sanders in recent polls and nothing on Tuesday seemed to shake up that dynamic.\n\nOthers, like Amy Klobuchar, Beto O'Rourke, John Hickenlooper, Marianne Williamson and even Pete Buttigieg, frequently disappeared into the background. As is frequently the case with debates like these, the quieter voices tend to get lost in the din.\n\nModerates on the march\nThose struggling in the polls knew they could very well be left out of the next debate when the field is cut to 10 in September. With that in mind, the moderates came out of the gate swinging.\n\nGovernor Bullock said Americans \"can't wait for revolution\" - clearly a reference to Sanders's revolutionary rhetoric - saying that their problems are \"here and now\".\n\nNot to be outdone, Mr Delaney called out Sanders and Warren by name, accusing them of making \"impossible promises\" that will turn off voters.\n\nEven the mild-mannered former Colorado Governor Hickenlooper got in on the action, noting that the 40 Democrats who won seats in the House of Representatives didn't share the views of Warren and Sanders.\n\nWhile much has been made of possible friction between Sanders and Warren, who are both competing for progressive votes, on Tuesday night they face a common threat the centre of their party.\n\nCan 'big ideas' beat Donald Trump?\nSenator Warren delivered what will probably be remembered as the line of the night, about three-quarters of the way through the debate.\n\nDuring a segment on \"electability\" and how best to beat Donald Trump - something polls indicate Democratic voters care deeply about - the moderates once again began bedevilling the progressive senators.\n\n\"I don't think that is an agenda we can move forward on and win,\" Ryan said, referencing the plans to do away with private insurance and decriminalise undocumented immigration.\n\nMoments later, Warren had her response ready to fire.\n\n\nMedia captionElizabeth Warren: \"Why run just to talk about what we shouldn't fight for\".\n\"I don't understand why anybody goes through all the trouble running for president of the United States just to talk about what we really can't do and shouldn't fight for,\" she said.\n\nSanders followed it up by saying the way to win elections was to give voters bold ideas that energise them to head to the polls. The audience erupted with cheers after both candidates spoke.\n\nSenator Klobuchar, who makes her ability to win elections in moderate mid-western Minnesota a key part of her campaign pitch, voiced the counterpoint to the \"big ideas\" strategy. Call it the big-tent strategy: \"The way we win an election is by bringing everyone with us\".\n\nEnergising Democratic voters can definitely be a good way to win a Democratic presidential nomination. It's an open question whether it's also a good way to win the presidency.\n\nA fight over 'Medicare for all'\nAs it was during the debates held in Miami in June, healthcare took centre stage in Detroit. It's the issue Americans tell pollsters they care about the most, and it's one of the issues that most starkly divides the progressives and the moderates in the presidential field.\n\nThose divisions were on full display, as Warren and Sanders were pressed by others on the stage - particularly Delaney - about the details of their plans and the costs involved.\n\n\nMedia captionBernie Sanders: 'I wrote the damn bill'\nBoth Warren and Sanders highlighted the flaws in the current system, not just for those who don't have insurance but also those who do but whose coverage is insufficient.\n\nSanders spoke of the Americans with insurance who can't afford to go to the doctor or, if they end up in the hospital, end up going bankrupt because of bills.\n\n\"Nobody can defend the dysfunctionality of the system,\" he said.\n\nCan Bernie Sanders overhaul US healthcare?\nThe curse of being a Democratic front-runner\nWarren noted the $23bn in profits made by the private insurance industry and that healthcare paperwork is just a way for insurance companies to say \"no\".\n\nWhat the moderates and others who may not embrace such a label, such as Pete Buttigieg and Beto O'Rourke, counter is that replacing private insurance entirely is not only unrealistic, it's too expensive. Instead, they've been pushing some form of a public insurance option that would compete with private insurers.\n\n\"Medicare for all who want it,\" is the way Buttigieg describes it. It would be, they contend, an incremental change that could eventually end up with all Americans on publicly provided health insurance, but it would bring less disruption to the system.\n\n\"It used to be just Republicans wanted to do repeal and replace,\" Bullock quipped, \"now many Democrats do as well.\"\n\nWhat to do at the border?\nIf healthcare was a big battle for between the two wings of the Democratic Party, the discussion of immigration reform was a skirmish - albeit a significant one.\n\nThe debate centred around whether migrants should be prosecuted as criminals when they enter the US without proper documentation.\n\nThat wasn't what the debate was really about, though.\n\n\nMedia captionFive numbers that explain US border crisis\nInstead, the fundamental disagreement is over whether the the laws, as they are, need to be changed or if it's simply a matter of removing Donald Trump from the White House.\n\nAfter O'Rourke said he wanted to keep the current criminal statutes on the books, Warren countered that those statutes are what gives Trump the ability \"to take children away from their parents\".\n\n\"You don't have to decriminalise everything,\" Bullock said a few moments later, \"you have to have a president who does the right thing.\"\n\nRead more from Anthony on Mueller, Boris Johnson and Trump\nDemocrats tend to agree on the big things on immigration - ending efforts to build a border wall, giving undocumented migrants who entered the country as children normalised immigration status and ending the Trump administration's aggressive enforcement of immigration law in the interior of the US.\n\nThe question for Democrats, then, is how much else has to be changed to stop someone like Donald Trump from using the existing laws in a way they don't like sometime in the future."
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 8,
+    "fields": {
+      "category": "2",
+      "title": "Shin Ok-ju: S Korean doomsday cult leader jailed for six years",
+      "content": "The leader of a South Korean doomsday cult has been sentenced to six years in jail for holding her followers captive in Fiji and subjecting them to violence.\n\nShin Ok-ju, who founded the Grace Road Church, convinced 400 people to move to Fiji in 2014, claiming they would be safe from imminent natural disaster\n\nOnce there, their passports were taken away and many of them reported being beaten to \"drive out evil spirits\".\n\nShin was arrested last July.\n\n'I lost my entire family to a cult' - Grace Road survivor speaks to the BBC\nOn Monday, a South Korean court found Shin guilty on several criminal charges including violence, child abuse and fraud.\n\n\"The victims suffered helplessly from collective beatings and experienced not only physical torture but also severe fear and considerable mental shock,\" said a sub-court of the Suwon District Court.\n\n\"Heavy punishment is inevitable against illegal acts carried out in the name of religion,\" it said.\n\nFive other church officials were also sentenced. There has been no comment from the church.\n\nImage copyrightSBS\nImage caption\nA screenshot taken from an SBS documentary shows Ms Shin slapping one of her congregants\nSeoyeon Lee, a woman who escaped from the cult in 2014, told the BBC that she was \"disappointed\" with the court's decision.\n\n\"The punishment did not fit the crime at all. She should be behind bars for a much longer time,\" said Ms Lee.\n\n\"It's better than nothing I guess,\" she added. \"I hope this encourages the Fijian government to take appropriate action and disassociate themselves with the organisation\".\n\nA Fijian business empire\nGrace Road Church has been described as heretical by mainstream South Korean Christian groups.\n\nShin preached that a global famine was imminent but that she and her followers would be safe in Fiji.\n\nThe church had leased land near the capital, Suva, and built a large business empire, with labour provided by Shin's followers.\n\nIt won several construction contracts from the Fijian government and a business excellence award from the prime minister.\n\nReports say several million people in South Korea belong to groups that promote fringe beliefs and interest in these groups is growing."
+    }
+  },
+  {
+    "model": "forum.post",
+    "pk": 9,
+    "fields": {
+      "category": "3",
+      "title": "Hong Kong protests: 'I'm in Australia but I feel censored by Chinese students'",
+      "content": "Hong Kong is now in its eighth week of street protests, which began with opposition to a controversial extradition bill but have spiralled into wider opposition to the government and Beijing.\n\nAs the situation grows yet more tense, the impact is also being felt overseas, particularly among the hundreds of thousands of mainland Chinese and Hong Kong students studying in Australia.\n\nAt the University of Queensland, the tensions spilled over into violent clashes last week, when a group staging a support rally for the Hong Kong demonstrators were confronted by pro-Beijing protesters.\n\nHundreds of protesters faced off against each other, yelling insults and abuse as the Chinese national anthem was blasted from a speaker.\n\nVideos posted online showed pro-China supporters ripping posters from the hands of opponents, prompting shoving and physical confrontations.\n\nSecurity officials quickly arrived to separate the groups but tensions remained high, said Nilsson Jones, a student journalist who filmed some of the clashes.\n\nSkip Twitter post by @nilssonjones_\n\nNilsson Jones\n@nilssonjones_\n Tensions escalated halfway through the protests #uqprotest #china #hongkong #uq\n\n Embedded video\n857\n8:44 AM - Jul 24, 2019\nTwitter Ads info and privacy\n875 people are talking about this\nReport\nEnd of Twitter post by @nilssonjones_\n\"Overwhelmingly, the [mainland] Chinese students were the aggressors,\" he said, adding that they had also turned out in greater numbers.\n\nHong Kong students who took part in the protests told the BBC they had done nothing to incite that response. Christy Leung, 21, and Phoebe Fan, 22, said they had helped organise a peaceful demonstration to support the pro-democracy protests at home.\n\n\"Our goal was for us to show support for the Hong Kong protesters, and to show we're against the extradition bill to China,\" Ms Fan told the BBC. \"We didn't say anything about independence or anything like that.\"\n\nWhat you need to know about the Hong Kong protests\nYoung, radical and ready for tear gas\nBeijing's struggle to win Hong Kong's young hearts\nThe students said their protest began smoothly but they were later surrounded by counter-protesters who heckled them and began to destroy their signs.\n\nImage copyrightPHOEBE FAN\nImage caption\nVideos of the clashes have been widely shared on social media\nMs Leung said she was confronted by one man who \"came at me and slammed the poster out of my hand\". She added: \"Some of my male friends moved to get in front of me and to stop him, but I felt like he was trying to hurt me. He choked one of the guys in the fight.\"\n\nEarlier in the day, a separate protest led by Australian students voiced its support for the Hong Kong protest movement, as well as criticising China's treatment of ethnic Uighurs. But that event also saw heated confrontations with counter-protesters.\n\nOne Australian student, Drew Pavlou, said he was left with a chipped tooth and bruising to his ribs after one clash. He said he had since received death threats online and has had to be accompanied by a security guard to classes.\n\n'I feel scared'\nMs Fan and Ms Leung say such harassment has also continued off campus. They have found pictures of themselves being shared on Chinese social media sites next to threatening messages. Ms Fan said one comment warned she would \"face consequences\".\n\nImage copyrightPHOEBE FAN\nImage caption\nMost of the demonstrations in Australia have been peaceful\nOne of their friends was also \"doxxed\" - personal information including his passport, marriage certificate and student ID details were posted online. \"Don't worry, there won't be a peaceful life for him in Brisbane,\" read an accompanying caption on Chinese social media platform Weibo.\n\n\"I'm feeling very disturbed and mostly scared because I'm not sure what they're going to do to me,\" Ms Fan said. However, she still plans on attending further protests.\n\nImage copyrightPHOEBE FAN\nImage caption\nHong Kong students held protests throughout the week in Brisbane\nThe University of Queensland did not speak directly about Ms Fan's concerns, but said it was investigating the protests and had offered support to students. \"The university is committed to protecting freedom of speech, and has zero tolerance for violence and intimidation,\" a spokeswoman said.\n\nWhat do counter-protesters say?\nOne counter-protest leader, Frank Wang, did not respond to the BBC's requests for comment but told local media that he had warned opponents that a \"conflict [was] definitely going to happen\" last Wednesday.\n\n\"The thing that happened today is not about us,\" he told the Australian Broadcasting Corporation last Wednesday. \"They held the event, they caused everything... they tried to make us angry.\"\n\nAn online petition demanding the university apologise for allowing the pro-democracy protests to be held has received more than 3,000 signatures.\n\n\nMedia captionIs there Chinese influence in Australia?\nOther posts on social media appear to suggest that tensions have spread to other universities. One showed the destruction of a pro-democracy message board at the University of New South Wales in Sydney.\n\nThere were also reports on Tuesday of similar scuffles at a university in Auckland, New Zealand.\n\n'Spontaneously patriotic'\nThere are just under 200,000 Chinese students in Australia who, like in many countries, bring in valuable revenue for the academic sector.\n\nAustralia universities caught in China row\nBut there has been growing concern in recent years over how much visiting Chinese students are influenced by the government in Beijing.\n\nThe Australian government is already investigating the role of Confucius Institutes - Chinese language and cultural centres funded by the Chinese government - in relation to new laws which require foreign organisations to be \"open, lawful and transparent\".\n\nImage copyrightGETTY IMAGES\nImage caption\nChinese students make up the largest overseas student bloc in Australian universities\nAfter the Queensland clashes, China's consul-general in Brisbane, Xu Jie, insisted that the mainland students were being \"spontaneously patriotic\".\n\nAnd it is unclear whether such fervour is being directed by state authorities, say China analysts in Australia.\n\n\"I think there is enough patriotism and pride among Chinese students that these kinds of things are going to happen frequently, even without government direction,\" said Dirk Van der Kley of China Matters, a Sydney-based think tank.\n\nAustralian Foreign Minister Marise Payne has responded by reiterating that freedom of speech is protected in Australia.\n\n\"The government would be particularly concerned if any foreign diplomatic mission were to act in ways that could undermine such rights, including by encouraging disruptive or potentially violent behaviour,\" she said.\n\nAnother protest is scheduled to take place at the University of Queensland on Wednesday, accusing the institution of failing to protect free speech on campus. University officials have said student safety is their top priority. Participants have been asked to carry student ID cards and warned that they may have to remove face coverings.\n\nMs Fan told the BBC she wanted the pro-China students to \"respect our right to free speech\".\n\nBut she said she was angry that the pressure had reached her \"on Australian soil\", and that she feared she was being monitored.\n\n\"I feel powerless and mostly scared,\" she said. \"I still have to study here, and now they're spying on me.\n\n\"I'm trapped. There are are words I want to say, but with everything I self-censor. I feel a lack of freedom to express myself.\""
+    }
+  },
+  {
+    "model": "forum.author",
+    "pk": 1,
+    "fields": {
+      "first_name": "Jack",
+      "last_name": "Daniels",
+      "car": 1,
+      "posts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "forum.author",
+    "pk": 2,
+    "fields": {
+      "first_name": "Ken",
+      "last_name": "Hensley",
+      "car": 2,
+      "posts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "forum.author",
+    "pk": 3,
+    "fields": {
+      "first_name": "Tom",
+      "last_name": "Grennan",
+      "car": 3,
+      "posts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  },
+  {
+    "model": "forum.author",
+    "pk": 4,
+    "fields": {
+      "first_name": "Andrew",
+      "last_name": "Garfield",
+      "car": 4,
+      "posts": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  }
+]

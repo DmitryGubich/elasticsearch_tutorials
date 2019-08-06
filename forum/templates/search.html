@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+<div class="container-fluid">
+    {% if search_result %}
+        <h1 style="text-align: center;">Search results:</h1>
+        <div style="display: flex;justify-content: center;flex-wrap: wrap;">
+            {% for result in search_result %}
+                <div class="card" style="width: 18rem;margin: 20px;">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ result.title }}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">{{ result.category.name|title }}</h6>
+                        <h6 class="card-subtitle mb-2 text-muted">{{ result.timestamp }}</h6>
+                        <p class="card-text">{{ result.content |truncatechars:225 }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h1 style="text-align: center;">There are not such posts ;-(</h1>
+    {% endif %}
+</div>
+</body>
+</html>
