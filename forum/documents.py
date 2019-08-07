@@ -6,13 +6,13 @@ from forum.models import Post
 
 @registry.register_document
 class PostDocument(Document):
-    title = fields.StringField()
+    title = fields.TextField()
     content = fields.TextField()
     timestamp = fields.DateField()
     category = fields.NestedField(
         properties={
-            'name': fields.StringField(),
-            'slug': fields.StringField()
+            'name': fields.TextField(),
+            'slug': fields.TextField()
         }
     )
 
