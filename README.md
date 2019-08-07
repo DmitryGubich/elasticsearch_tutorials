@@ -54,6 +54,7 @@ java --version
 ```
 
 **Result:**
+
 ![image](https://user-images.githubusercontent.com/18426280/62542096-ca7d6780-b863-11e9-93d1-4c28a0d314b6.png)
 
 Дистрибутив Elasticsearch доступен [на сайте разработчика](https://www.elastic.co/downloads/elasticsearch).
@@ -64,6 +65,7 @@ bin/elasticsearch
 ```
 
 **Result:**
+
 ![image](https://user-images.githubusercontent.com/18426280/62542264-20eaa600-b864-11e9-8040-7ba3cd6d5987.png)
 
 После этого нужно перейти на `http://localhost:9200/`, чтобы убедиться, что **elasticsearch** запущен и мы всё сделали правильно. Если вы сделали всё верно, вы должны будете увидеть что-то такое:
