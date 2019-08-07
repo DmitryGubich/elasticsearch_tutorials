@@ -15,12 +15,12 @@ class ElasticSearchView(View):
     def get(self, request):
         query = request.GET.get('q')
 
-        search_result = PostDocument.search().query(elastic_Q('term', content=query) |
-                                                    elastic_Q('term', title=query) |
+        search_result = PostDocument.search().query(elastic_Q('fuzzy', content=query) |
+                                                    elastic_Q('fuzzy', title=query) |
                                                     elastic_Q('nested',
                                                               path='category',
-                                                              query=elastic_Q('term', category__name=query) |
-                                                                    elastic_Q('term', category__slug=query)))
+                                                              query=elastic_Q('fuzzy', category__name=query) |
+                                                                    elastic_Q('fuzzy', category__slug=query)))
         if not search_result.count():
             search_result = ''
         return render(request, TEMPLATE_NAME, {'search_result': search_result})
