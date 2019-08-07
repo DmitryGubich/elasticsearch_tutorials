@@ -380,6 +380,7 @@ python manage.py search_index --rebuild
 ```
 
 Создадим два разных `view`, чтобы проверить работу приложения. Одно представление для работы с данными через DjangoORM и другое для работы через elasticsearch API:
+
 **views.py**
 ```python
 from django.db.models import Q as django_Q
