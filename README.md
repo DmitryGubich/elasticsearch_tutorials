@@ -432,3 +432,18 @@ class SimpleSearchView(View):
 **Demo:**
 
 ![Aug-07-2019 16-12-01 gif sb-d29131d9-wPY4jf](https://user-images.githubusercontent.com/18426280/62625605-3926f780-b92e-11e9-8303-6b91115b006e.gif)
+
+
+## Это интересно
+Как я говорил выше, из коробки Django поддерживает лишь стандартные операции с поиском по тексту:
+```python
+>>> Author.objects.filter(name__contains='Terry')
+[<Author: Terry Gilliam>, <Author: Terry Jones>]
+```
+-----------------------------------
+```python
+>>> Author.objects.filter(name__icontains='Terry')
+[<Author: Terry Gilliam>, <Author: Terry Jones>, <Author: terry brooks>]
+```
+
+Но, например, база `PostgreSQL` имеет много специфических [полей поиска](https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/lookups/), а также свой движок для [полнотекстового поиска](https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/search/).
