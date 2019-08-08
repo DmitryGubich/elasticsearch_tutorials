@@ -447,3 +447,5 @@ class SimpleSearchView(View):
 ```
 
 Но, например, база `PostgreSQL` имеет много специфических [полей поиска](https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/lookups/), а также свой движок для [полнотекстового поиска](https://docs.djangoproject.com/en/2.2/ref/contrib/postgres/search/).
+
+Хорошая [статья](https://medium.com/@pauloxnet/full-text-search-in-django-with-postgresql-4e3584dee4ae) для примера.
