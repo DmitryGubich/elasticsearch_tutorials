@@ -6,7 +6,7 @@
 К таким решениям, исходя из нашей практики, относится [Elasticsearch](https://www.elastic.co/products/elasticsearch).
 ## Что такое Elasticsearch
 [Elasticsearch](https://www.elastic.co/products/elasticsearch) — это представитель кластерных NoSQL с JSON REST API. Elasticsearch — это нечто большее, чем просто поисковая система, она поддерживает сложные агрегации, геофильтры и список продолжается. И самое прекрасное это скорость получение запросов. 
-Мы можем считать его и нереляционным хранилищем документов в формате JSON, и поисковой системой на базе полнотекстового поиска [Lucene](https://ru.wikipedia.org/wiki/Lucene).
+Мы можем считать его и не реляционным хранилищем документов в формате JSON, и поисковой системой на базе полнотекстового поиска [Lucene](https://ru.wikipedia.org/wiki/Lucene).
 
 Аппаратная платформа — Java Virtual Machine.
 
@@ -290,7 +290,7 @@ class PostDocument(Document):
         model = Post
 ```
 
-Чтобы только что созданный document проидексировался необходимо выполнить команду
+Чтобы только что созданный document проиндексировался необходимо выполнить команду
 ```commandline
 python manage.py search_index --rebuild
 ```
@@ -501,7 +501,7 @@ class SimpleSearchView(View):
         return render(request, TEMPLATE_NAME, {'search_result': search_result})
 ```
 
-Поисковое API для текста в Django ORM по умолчанию имеет два режима: на полное совпанедие и на включение (`contains`). Elasticsearch API предоставляет намного больше возможностей для [поиска](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html).
+Поисковое API для текста в Django ORM по умолчанию имеет два режима: на полное совпадение и на включение (`contains`). Elasticsearch API предоставляет намного больше возможностей для [поиска](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html).
 
 **Demo:**
 
